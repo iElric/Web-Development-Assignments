@@ -1,2 +1,2 @@
 # Web-Development-Assignments
- for CS5610 Web Development at NEU.
+ Homework1 for CS5610 Web Development at NEU.
